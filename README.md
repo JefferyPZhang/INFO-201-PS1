@@ -1,4 +1,4 @@
-# INFO201 Problem Set: basic R
+# INFO 201 Problem Set: Basic R
 October 4, 2023
 1 Variables and computing (25pt)
 Here we ask you to define, compute, and print a number of variables See 2.4 in the course book
