@@ -1,43 +1,5 @@
 # INFO201 Problem Set: basic R
 October 4, 2023
-Instructions
-This is a very simple assignment as we haven’t yet learned much. It will give you up to 100 points,
-this will be 10 points of your final grade.
-The main aim of it is to ensure you are good with RStudio basics, and you know how to
-submit files. You’ll work through a set of tasks that require knowledge of core concepts in R. More
-specifically, this project is about:
-• Creating variables of different types in R
-• Performing logical operations
-• Using for-loops
-This is about basic coding skills, but all these skills are needed later when we do data program-
-ming.
-You can start with the starter file ps01-basic-r-starter.R that contains a few examples.
-However, all the questions are also listed below.
-• When you write the code, add the question number in front of it as code comment (see the
-example in the starter file).
-• Ensure your code runs, and works correctly. When you test it, you may want to run it a few
-lines at time (see the the course book 2.3.2 but for the final test, ensure that all of it runs
-(select all and run selection, see below).
-• Ensure that your code produces output.
-You should always produce output if asked for a number or other result. You do not need to
-do it if only asked to assign a value to the variable. For instance:
-a) Create a variable age that equals to your age
-age <- 33 # no output needed
-b) How old were you 10 years age?
-cat("I was", age - 10, "\n") # here we need output
-I was 23
-See the example in the starter code.
-Answer that do not produce output will not count!
-1
-Submission
-When done, compile it as a report (in RStudio menu: File > Compile Report). We recommend to
-do html, as pdf may need additional software and setup.
-Submit two files:
-• your code: this is needed if there are any questions about how does it run.
-• the compiled report: this is what your grader normally checks. Ensure that it contains all
-necessary output!
-These two things constitute your submission.
-Have fun!
 1 Variables and computing (25pt)
 Here we ask you to define, compute, and print a number of variables See 2.4 in the course book
 1.1 Variables (10pt)
